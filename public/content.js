@@ -98,37 +98,37 @@ window.BIRTHDAY_CONTENT = {
     {
       title: "Your soft heart",
       description: "The side of you which makes you so soft and kind. Your love for animals has always been something I never truly understood, but I have always loved you for it so much. The fact that you feel so much for such innocent beings is one of the most beautiful things about you.",
-      image: "/public/photos/trait-1.JPG",
+      image: "/photos/trait-1.JPG",
       alt: "A photo showing her love for animals"
     },
     {
       title: "Your silly side",
       description: "My favourite side of you. You being goofy and so happy fills me with all the energy I need in the world.",
-      image: "/public/photos/trait-2.JPG",
+      image: "/photos/trait-2.JPG",
       alt: "A happy, goofy photo of her"
     },
     {
       title: "Pretty, pretty you",
       description: "How can you ever say that you are ugly when this is how you look? The pretty but cute side of you is soooo adorable, I swear to God.",
-      image: "/public/photos/trait-3.JPG",
+      image: "/photos/trait-3.JPG",
       alt: "A cute photo of her"
     },
     {
       title: "His majestic ass",
       description: "This is an honourable mention, because how can we not talk about Tofu when we talk about you? In your words, his majestic ass takes the highlight here.",
-      image: "/public/photos/trait-4.PNG",
+      image: "/photos/trait-4.PNG",
       alt: "Tofu in a photo with her"
     },
     {
       title: "My gorgeous girl",
       description: "I do not think we talk about this picture enough because oh my god, look at my girlfriend. How can someone be so fucking gorgeous? Again, how can you even say you are not pretty? Look at yourself. Holy shit.",
-      image: "/public/photos/trait-5.JPG",
+      image: "/photos/trait-5.JPG",
       alt: "A gorgeous photo of her"
     },
     {
       title: "You + me",
       description: "Actually, this is my favourite side: the side where you love me so much and care about me. You plus me against the world, right?",
-      image: "/public/photos/trait-6.JPG",
+      image: "/photos/trait-6.JPG",
       alt: "A loving photo of the two of you"
     }
   ],
@@ -157,18 +157,19 @@ window.BIRTHDAY_CONTENT = {
   },
 
   gallery: [
-    { image: "/public/photos/gallery-1.JPG", alt: "A photo of her for her birthday", caption: "My favourite view", memory: "The first frame had to be you." },
-    { image: "/public/photos/gallery-2.JPG", alt: "A photo showing her love for animals", caption: "My Pretty Baby", memory: "gosh you are so pretty" },
-    { image: "/public/photos/gallery-3.JPG", alt: "A happy, goofy photo of her", caption: "mad at me", memory: "you're default mood, mad at me lmao" },
-    { image: "/public/photos/gallery-4.JPG", alt: "A cute photo of her", caption: "Meri Jaan", memory: "Love you being this way always." },
-    { image: "/public/photos/gallery-5.JPG", alt: "Tofu in a photo with her", caption: "Cuttuuuu", memory: "My cutest babyyyy" },
-    { image: "/public/photos/gallery-6.JPG", alt: "A gorgeous photo of her", caption: "My gorgeous girl", memory: "Look at yourself. Holy shit." },
-    { image: "/public/photos/gallery-7.JPG", alt: "A loving photo of the two of you", caption: "You + me", memory: "Against the world, right?" }
+    { image: "/photos/gallery-1.JPG", alt: "A photo of her for her birthday", caption: "My favourite view", memory: "The first frame had to be you." },
+    { image: "/photos/gallery-2.JPG", alt: "A photo showing her love for animals", caption: "My Pretty Baby", memory: "gosh you are so pretty" },
+    { image: "/photos/gallery-3.JPG", alt: "A happy, goofy photo of her", caption: "mad at me", memory: "you're default mood, mad at me lmao" },
+    { image: "/photos/gallery-4.JPG", alt: "A cute photo of her", caption: "Meri Jaan", memory: "Love you being this way always." },
+    { image: "/photos/gallery-5.JPG", alt: "Tofu in a photo with her", caption: "Cuttuuuu", memory: "My cutest babyyyy" },
+    { image: "/photos/gallery-6.JPG", alt: "A gorgeous photo of her", caption: "My gorgeous girl", memory: "Look at yourself. Holy shit." },
+    { image: "/photos/gallery-7.JPG", alt: "A loving photo of the two of you", caption: "You + me", memory: "Against the world, right?" }
   ],
 
   playlist: [
-    { title: "Playlist track 1", src: "/audio/playlist-1.mp3" },
-    { title: "Playlist track 2", src: "/audio/playlist-2.mp3" },
-    { title: "Playlist track 3", src: "/audio/playlist-3.mp3" }
+    {
+      title: "Can't Take My Eyes Off You — Frankie Valli",
+      src: "/audio/Frankie Valli - Can't Take My Eyes Off You (Official Audio).mp3"
+    }
   ]
 };

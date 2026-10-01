@@ -89,7 +89,7 @@
 
       <section class="hero" aria-labelledby="hero-title">
         <div class="hero__media image-holder">
-          <img src="/public/photos/landing-page.JPG" alt="${escapeHTML(site.heroTitle)}" fetchpriority="high" />
+          <img src="/photos/landing-page.JPG" alt="${escapeHTML(site.heroTitle)}" fetchpriority="high" />
           <span class="image-placeholder">${escapeHTML(site.imageFallback)}</span>
         </div>
         <div class="hero__content">
