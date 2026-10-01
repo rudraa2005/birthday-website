@@ -169,7 +169,15 @@ window.BIRTHDAY_CONTENT = {
   playlist: [
     {
       title: "Can't Take My Eyes Off You — Frankie Valli",
-      src: "/audio/Frankie Valli - Can't Take My Eyes Off You (Official Audio).mp3"
+      src: "/audio/Frankie Valli - Can't Take My Eyes Off You (Official Audio).mp3",
+    },
+    {
+      title: "Guzarish - Javed Ali, Sonu Nigam",
+      src: "/audio/Guzarish Full Song Ghajini Javed Ali, Sonu Nigam.mp3"
+    },
+    {
+      title: "I love you",
+      src: "/audio/I love you (Full song) Bodyguard feat. Salman khan, Kareena Kapoor.mp3"
     }
   ]
 };
